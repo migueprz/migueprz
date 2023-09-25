@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">Front-end enthusiast dedicated to crafting captivating user experiences through clean and responsive web designs</h3>
+<h3 align="center">I'm a Front-end enthusiast dedicated to crafting captivating user experiences through clean and responsive web designs</h3>
 
 - 🌱 I’m currently learning **React - Angular - Vuejs - Svelte - d3js - Flexbox - CSS Grid - Material Design - CSS in JS NextJS - Jest - GraphQL - Webpack - Vite - Parcel - ES6 - Typescript - Git**
 
